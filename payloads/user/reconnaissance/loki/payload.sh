@@ -1,10 +1,16 @@
 #!/bin/sh
 # Title: Loki
-# Description: Autonomous network reconnaissance companion for WiFi Pineapple Pager - Network scanning, brute force, and data exfiltration
+# Description: LAN Orchestrated Key Infiltrator  Autonomous Network Recon Payload
 # Author: brAinphreAk
 # Version: 1.0
 # Category: Reconnaissance
 # Library: libpagerctl.so (pagerctl)
+
+# Payload metadata for pager theme engine
+_PAYLOAD_TITLE="Loki"
+_PAYLOAD_AUTHOR_NAME="brAinphreAk"
+_PAYLOAD_VERSION="1.0"
+_PAYLOAD_DESCRIPTION="LAN Orchestrated Key Infiltrator  Autonomous Network Recon Payload"
 
 # Payload directory (standard Pager installation path)
 PAYLOAD_DIR="/root/payloads/user/reconnaissance/loki"
